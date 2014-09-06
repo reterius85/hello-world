@@ -1,0 +1,9 @@
+
+<?
+
+echo "eklenen ilk satır" ;
+
+
+?>
+
+
