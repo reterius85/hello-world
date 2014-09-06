@@ -1,4 +1,4 @@
-
+ 
 <?
 
 echo "eklenen ilk satır" ;
